@@ -67,11 +67,6 @@ img {
     font-size:0.9rem;
 }
 
-#daumRoughmapContainer1597651152951 {
-    width:80%;
-    max-width:640px;
-    align:center;
-}
 #parents {
     margin:2rem;
     line-height:2.5;
@@ -82,6 +77,11 @@ img {
 }
 #address {
     color:#8a8a8a
+}
+#invite {
+    max-width: 80%;
+    margin:2rem;
+    line-height:2;
 }
 /* NitPicky Stylings */
 
