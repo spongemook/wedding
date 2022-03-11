@@ -27,8 +27,8 @@ a {
 
 /* Content Elements */
 body {
-    background: #fff;
-    color: #000;
+    background: #EEEDE5;
+    color: #232323;
     text-align: center;
 }
 
@@ -62,6 +62,7 @@ img {
 /* NitPicky Stylings */
 .poem {
     line-height: 2;
+    color: #232323;
 }
 .suffix {
     font-size:0.9rem;
