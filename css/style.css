@@ -144,14 +144,6 @@ img {
     opacity: 1;
     pointer-events: all;
 }
-.modal p {
-    position: absolute;
-    color: white;
-    font-size: 1.7rem;
-    left: 50%;
-    bottom: 10%;
-    transform: translate(-50%);
-}
 .full-img {
     position: absolute;
     top: 50%;
